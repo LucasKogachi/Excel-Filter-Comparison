@@ -3,6 +3,22 @@
 ## Overview
 This Excel Project is a Simple Tool using Excel VBA to Filter and Compare DATA.
 
+## Why Use this Tool?
+
+This tool is useful when you work in a company and the machine only has access to the company system and the Microsoft Office. Sometimes we stumble trying to do some simple things with the DATA and we only have Excel to help us, but what we need is a little more complicated than the usual, but still simple enough.
+
+### Example
+
+A Company needs to change many programs to accept the new changes in the system, but each program can call other subprograms and sometimes it’s necessary to change those subprograms too. Programs can also have subprograms in common.
+
+Every program has a list of subprograms used. To keep record of changes, there is a list of subprograms already changed and working, there is also another list with subprograms with new changes being evaluated and finally a list with subprograms of a program your team is working on.
+
+Using the tool, you copy the list of subprograms of a program your team is working on to the Input Sheet. To filter that you copy the list of subprograms already changed and working to a new Filter Sheet, in another new filter sheet you copy the list with subprograms with new changes being evaluated. Finally you can add a new Comparison Sheet with a list of who of your team is working with what subprogram.
+
+Running the tool, Output Sheet shows what subprograms your team needs to focus on and who of your team is working with what subprogram.
+
+This is just an example, you can find new uses for this tool.
+
 ## How it Works
 
 There are 3 Basic Sheets:
