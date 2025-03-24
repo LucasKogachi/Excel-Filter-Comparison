@@ -42,6 +42,6 @@ There is a pdf for examples and more details
 
 2. Open it
 
-3. Enable Macros
+3. Enable Macros (File->Options->Trust Center->Trust Center Settings...->Trusted Locations->Add File Location)
 
 4. Enjoy it
